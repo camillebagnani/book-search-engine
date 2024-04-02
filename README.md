@@ -27,7 +27,7 @@ Mongoose: https://www.npmjs.com/package/mongoose
 React-Router-DOM: https://www.npmjs.com/package/react-router-dom
 
 ## Usage
-![GIF displaying a walkthrough of searching, adding and deleting a book as a logged in user](../book-search-engine/client/public/book-search-engine-walkthrough.gif)
+![GIF displaying a walkthrough of searching, adding and deleting a book as a logged in user](./client/public/book-search-engine-walkthrough.gif)
 
 ## Credits
 Starter code: https://github.com/coding-boot-camp/solid-broccoli
